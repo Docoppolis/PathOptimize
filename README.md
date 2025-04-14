@@ -1,3 +1,16 @@
+## Project Contributors
+
+This project was developed as part of a group project. The original repository can be found [here](https://github.com/LazarevicLazar/TGHApp).'
+
+### My Contributions
+
+As part of the team, I was responsible for:
+- Designing the program used to generate the weighted graph holding distances between each room
+- Writing the algorithm used to find the optimal storage location for a device
+- Writing the algorithm used to determine if additional equipment should be purchased
+
+This fork was created to showcase my individual contributions and for portfolio purposes
+
 # RTLS Equipment Tracker
 
 An Electron application for tracking and optimizing equipment using Real-Time Location System (RTLS) data.
