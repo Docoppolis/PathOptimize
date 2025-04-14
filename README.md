@@ -1,6 +1,6 @@
 ## Project Contributors
 
-This project was developed as part of a group project. The original repository can be found [here](https://github.com/LazarevicLazar/TGHApp).'
+This project was developed as part of a group project. The original repository can be found [here](https://github.com/LazarevicLazar/TGHApp).
 
 ### My Contributions
 
